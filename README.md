@@ -81,36 +81,111 @@ class Engineer:
 
 ---
 
-<!-- ====================== GITHUB STATS (auto-updating, animated) ====================== -->
-## 📊 Live Telemetry
+<!-- ====================== DEMO ====================== -->
+## 🎥 In Motion — Surgical Robot Trajectory
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuva24-oec&show_icons=true&theme=react&hide_border=true&bg_color=0B132B&title_color=5BC0BE&icon_color=5BC0BE&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva24-oec&layout=compact&theme=react&hide_border=true&bg_color=0B132B&title_color=5BC0BE&text_color=ffffff&cache_seconds=86400" />
+<img width="80%" src="assets/robot_surgical_trajectory.gif" alt="Surgical robot trajectory simulation" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=yuva24-oec&theme=react&hide_border=true&background=0B132B&ring=5BC0BE&fire=00C2FF&currStreakLabel=5BC0BE" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuva24-oec&theme=react-dark&bg_color=0B132B&color=5BC0BE&line=00C2FF&point=ffffff&hide_border=true&area=true" />
+*Tissue-adaptive trajectory simulation — force-aware path control for a surgical robotic arm.*
 
 </div>
 
 ---
 
-<!-- ====================== PROJECTS ====================== -->
-## 🚀 Mission Log — What You'll Find Here
+<!-- ====================== FEATURED PROJECTS ====================== -->
+## 🚀 Featured Projects
 
-- 🦾 **Robotics & Mechatronics** — ROS2 + MoveIt2 systems, computer vision, inverse kinematics, cobot integration
-- 🩺 **Medical Devices** — full NPD lifecycle with design controls and verification documentation
-- 🎛️ **Embedded Control** — closed-loop PID, sensor calibration, real-time signal validation
-- 🔩 **Mechanical Design** — FEA-driven structural optimization, GD&T, DFM/DFA
-- 📐 **Verification & Validation** — RCA, CAPA, DV/DFMEA, benchtop test protocols
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Surgical Robot Force Safety Monitor
+Tissue-adaptive force control for a surgical robotic arm — PID force controller + real-time safety watchdog with 10 ms response, validated against IEC 60601-1 & ISO 13485.
+
+`MATLAB` `Control Systems` `V&V`
+
+[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦿 Wearable Rehabilitation Device
+End-to-end NPD of a dual glove + insole system through clinician-validated prototype — full design controls, DHF per FDA 21 CFR 820.30, &lt;5% calibration error.
+
+`SolidWorks` `ESP32` `Design Controls`
+
+[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 6-DOF Autonomous Maze Solver
+Solved a 4×4 maze on a 6-DOF arm by integrating OpenCV, A* pathfinding, and MoveIt2 — sim-validated, then deployed to physical hardware over Ethernet TCP.
+
+`ROS2` `MoveIt2` `OpenCV`
+
+[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦴 Patient-Specific Radial Head Implant
+FEA-driven orthopedic implant in 316L stainless steel — reduced stress shielding 34% via iterative ANSYS optimization, designed for DMLS additive manufacturing.
+
+`SolidWorks` `ANSYS FEA` `DMLS`
+
+[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩻 Cardiovascular Stent — Structural V&V
+Parametric lattice stent with nonlinear FEA under physiological loading — confirmed structural integrity with an 8× safety margin, documented for design verification.
+
+`SolidWorks` `Nonlinear FEA`
+
+[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦾 UR Cobot — Motion & Trajectory Control
+Programmed a UR-series cobot for pick-and-place — cut cycle time 18% with optimized MoveJ transitions while holding ±1 mm accuracy and zero-drop reliability.
+
+`UR` `Kinematics` `Robotiq`
+
+[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
+</td>
+</tr>
+</table>
 
 > **I treat GitHub as a portfolio of engineering rigor — built like real products, not just demos.**
+
+---
+
+<!-- ====================== HOW I WORK ====================== -->
+## 🧭 How I Work
+
+```
+spec  →  design  →  simulate  →  prototype  →  verify  →  validate  →  iterate
+```
+
+- **Requirements before geometry.** I anchor every design to clear, traceable requirements — so what gets built can be proven, not just assumed.
+- **Simulate, then commit.** FEA and control simulation catch failure modes before a single part is machined or a board is powered.
+- **Verification is not an afterthought.** Test protocols, V&V, and DV/DFMEA are part of the design — not a box ticked at the end.
+- **Root-cause, not symptom-patch.** When something fails, I trace it to the source with structured RCA and close it out with corrective action that doesn't recur.
+- **Documentation that survives handoff.** DHF, ECN/ECO, and work instructions written so the next engineer — or an auditor — can follow the logic.
+
+> *In regulated hardware, the work isn't done when it functions — it's done when it's safe, traceable, and proven.*
 
 ---
 
