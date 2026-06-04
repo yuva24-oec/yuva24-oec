@@ -108,7 +108,7 @@ Tissue-adaptive force control for a surgical robotic arm — PID force controlle
 
 `MATLAB` `Control Systems` `V&V`
 
-[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ End-to-end NPD of a dual glove + insole system through clinician-validated proto
 
 `SolidWorks` `ESP32` `Design Controls`
 
-[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ Solved a 4×4 maze on a 6-DOF arm by integrating OpenCV, A* pathfinding, and Mov
 
 `ROS2` `MoveIt2` `OpenCV`
 
-[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ FEA-driven orthopedic implant in 316L stainless steel — reduced stress shieldi
 
 `SolidWorks` `ANSYS FEA` `DMLS`
 
-[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
 
 </td>
 </tr>
@@ -152,7 +152,7 @@ Parametric lattice stent with nonlinear FEA under physiological loading — conf
 
 `SolidWorks` `Nonlinear FEA`
 
-[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
 
 </td>
 <td width="50%" valign="top">
@@ -162,7 +162,7 @@ Programmed a UR-series cobot for pick-and-place — cut cycle time 18% with opti
 
 `UR` `Kinematics` `Robotiq`
 
-[**→ View Repo**](https://github.com/yuva24-oec/REPO_NAME)
+
 
 </td>
 </tr>
