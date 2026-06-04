@@ -121,7 +121,7 @@ class Engineer:
 <!-- ====================== ACHIEVEMENTS ====================== -->
 ## 🏆 Achievements
 
-- 🇮🇳 **Patent (India):** Inventor on a granted patent for a piezoelectric wearable shoe-sole energy-harvesting device
+- 🇮🇳 **Patent :** Inventor on a granted patent for a piezoelectric wearable shoe-sole energy-harvesting device
 - 🩺 **Medical Device Validation:** Led end-to-end development of a wearable rehabilitation device, validated with clinical partners and documented to FDA 21 CFR 820.30
 - 📜 **Certifications:** Semiconductor Manufacturing Fundamentals · J&J MedTech Robotics & Controls Simulation · Medical Device Design (ISO 13485) · Root Cause Analysis · Six Sigma Yellow Belt
 
